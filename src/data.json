@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "fullName": "Ismael Khalid",
+      "address": "3 waterfoot road Islamabad",
+      "phoneNumber": "333-962-7516",
+      "email": "Ismael12@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Sarfaraz Sohail",
+      "address": "4 tall town Lahore",
+      "phoneNumber": "011-211-7516",
+      "email": "Sarfarazhail@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Ishaaq Shah",
+      "address": "11 lesly road Sialkot",
+      "phoneNumber": "788-962-7516",
+      "email": "Shah89@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Qaiser Ahmed",
+      "address": "333 miltown manor Kashmir",
+      "phoneNumber": "011-962-111",
+      "email": "aiserlark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Qasim Zubair",
+      "address": "99 blue acres Bule Area Islamabad",
+      "phoneNumber": "3231-962-7516",
+      "email": "Zubair11ds@email.com"
+    },
+
+    {
+        "id": 6,
+        "fullName": "Fahad Hussain",
+        "address": "24 urban road Nowshera",
+        "phoneNumber": "432-576-490",
+        "email": "Fahadas@email.com"
+    },
+    {
+      "id": 7,
+      "fullName": "Qazi Faiz",
+      "address": "333 joeroad manor Peshawar",
+      "phoneNumber": "094-384-012",
+      "email": "FaizQaxi@email.com"
+    },
+    {
+      "id": 9,
+      "fullName": "Fareed Akbar",
+      "address": "Arena Road blueSapphire",
+      "phoneNumber": "4445-9083-220",
+      "email": "Akbar11@email.com"
+    },
+
+    {
+        "id": 10,
+        "fullName": "Atif Rasheed",
+        "address": "@5 will Street New York",
+        "phoneNumber": "432-576-490",
+        "email": "RAsheeds@email.com"
+      }
+  ]
+
+
+
